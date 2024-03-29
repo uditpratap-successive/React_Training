@@ -1,0 +1,18 @@
+.image {
+  width: 300px;
+  height: 300px;
+  border-radius: 50%;
+  background-color: black;
+}
+.user {
+  display: flex;
+  flex-direction: row;
+  text-align: center;
+  padding: 10px;
+}
+.container {
+  display: flex;
+  flex-direction: column;
+  margin: 1rem;
+  padding: 1rem;
+}
