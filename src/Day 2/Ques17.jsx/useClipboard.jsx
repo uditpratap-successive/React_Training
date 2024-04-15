@@ -13,11 +13,10 @@ const useClipboard = () => {
 
   const copyToClipboard = (text) => {
     navigator.clipboard.writeText(text)
-      setCopied(text);
-    
+      setCopied(text);  
   };
 
-  return { copied, copyToClipboard };
+  return { copied, copyToClipboard,setCopied };
 };
 
 export default useClipboard;
