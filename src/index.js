@@ -9,6 +9,9 @@ ReactDOM.render(
      {/* <Assignment5/>  */}
      <Assignment6/>
   
+      <Assignment1/>
+    <Assignment2 />
+    <Assignment3/>
    </>,
   document.getElementById("root")
 );
