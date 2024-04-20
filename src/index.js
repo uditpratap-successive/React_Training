@@ -1,15 +1,11 @@
 import React from "react";
 import ReactDOM from "react-dom";
-import Assignment1 from "./Day 1/Assignement1";
-import Assignment2 from "./Day 2/Assignment2";
-import Assignment3 from "./Day-3/Assignment3";
+import Assignment4 from "./Day 4/Assignment4";
 ;
 
 ReactDOM.render(
    <>
-      <Assignment1/>
-    <Assignment2 />
-    <Assignment3/>
+    <Assignment4/>
    </>,
   document.getElementById("root")
 );
