@@ -1,4 +1,4 @@
-const buttondata = [
+const bdata = [
   {
     text: "Button 1",
     color: "red",
@@ -12,4 +12,4 @@ const buttondata = [
     color: "#0000FF",
   },
 ];
-export default buttondata;
+export default bdata;
