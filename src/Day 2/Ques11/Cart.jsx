@@ -1,8 +1,6 @@
-<<<<<<< HEAD
-import React, { useContext, useState } from "react";
-=======
+
+
   import React, { useContext, useState } from "react";
->>>>>>> 4184e47b4d134e504060fabca7e2ed0ae9106e3e
 import { shoppingCartContext } from "./ContextProvider";
 
 const Cart = () => {
