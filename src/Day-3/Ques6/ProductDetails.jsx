@@ -1,11 +1,10 @@
 // ProductDetails.js
 import React from 'react';
-import { useParams, Link, useNavigate } from 'react-router-dom';
+import { useParams,useNavigate } from 'react-router-dom';
 
 const products = [
   { id: 1, name: 'Product 1', price: 100, description: 'Description for Product 1' },
   { id: 2, name: 'Product 2', price: 200, description: 'Description for Product 2' },
-  // Add more products as needed
 ];
 
 const ProductDetails = () => {
