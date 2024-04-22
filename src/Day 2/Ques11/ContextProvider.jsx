@@ -5,6 +5,9 @@ Use the useContext hook to access the cart state and update it.
 Allow users to add and remove items from the cart.
 Display the total price of items in the cart.
 */
+//create context
+//prodcuer
+//consumer
 
 
 import React,{createContext,useState} from 'react';
